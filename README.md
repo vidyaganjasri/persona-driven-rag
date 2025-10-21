@@ -77,7 +77,7 @@ Ensure your file structure matches this layout before running the script:
 ```
 persona-driven-rag/
 ├── inputDocs/
-│   └── your_document.pdf  # Add all your source PDFs here
+│   └── your_document.pdf  # Add all your source PDF here
 ├── models/
 │   └── llama-2-7b-chat.Q4_K_M.gguf # Place your LLaMA model here
 ├── main.py         # The main script
