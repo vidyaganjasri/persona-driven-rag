@@ -30,7 +30,10 @@ By running entirely locally with open-source models (LLaMA via `llama-cpp-python
 
 ### Demo Output (Successful Execution)
 
-The following output was generated when asking about a scientific discovery as an "Astronomy Professor":
+The following output was generated in cmd when asking about a scientific discovery as an "Astronomy Professor":
+
+<img width="1911" height="295" alt="image" src="https://github.com/user-attachments/assets/45e3ad94-2dbd-460e-b662-55b55c832400" />
+
 
 | Item | Value |
 | :--- | :--- |
