@@ -78,7 +78,7 @@ persona-driven-rag/
 │   └── your_document.pdf  # Add all your source PDFs here
 ├── models/
 │   └── llama-2-7b-chat.Q4_K_M.gguf # Place your LLaMA model here
-├── persona_rag.py         # The main script (or main.py if renamed)
+├── main.py         # The main script
 └── requirements.txt
 ```
 
