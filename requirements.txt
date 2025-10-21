@@ -1,6 +1,5 @@
-llama-cpp-python
+PyMuPDF
 sentence-transformers
 faiss-cpu
-langchain-docling
-docling-parse
-huggingface-hub
+llama-cpp-python
+numpy
