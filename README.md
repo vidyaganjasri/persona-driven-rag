@@ -32,15 +32,14 @@ By running entirely locally with open-source models (LLaMA via `llama-cpp-python
 
 The following output was generated in cmd when asking about a scientific discovery as an "Astronomy Professor":
 
-<img width="1911" height="295" alt="image" src="https://github.com/user-attachments/assets/45e3ad94-2dbd-460e-b662-55b55c832400" />
 
 
 | Item | Value |
 | :--- | :--- |
 | **Query** | `"Henrietta Leavitt's key discovery"` |
 | **Persona** | `"Astronomy Professor"` |
-| **Answer** | Henrietta Leavitt's key discovery was that the length of time between a star's brightest and dimmest points, known as the "cycling time," is related to the star's overall brightness. This discovery allowed astronomers to determine the distances to far-off stars and hence, the size of our own galaxy. Leavitt's observation was a true surprise, as it came after years of carefully comparing thousands of photos of stars, looking for patterns in the darkness. |
-| **Sources Used** | `what_is_science.pdf - Page 3`, `what_is_science.pdf - Page 2` |
+
+<img width="1911" height="295" alt="image" src="https://github.com/user-attachments/assets/45e3ad94-2dbd-460e-b662-55b55c832400" />
 
 -----
 
