@@ -58,4 +58,4 @@ Before running the application, you must have the following installed and config
 
 3.  **Example Session:**
 
-  <img width="1919" height="747" alt="image" src="https://github.com/user-attachments/assets/decff57a-06f8-46b6-a559-260f3f2c9a58" />
+<img width="1919" height="539" alt="image" src="https://github.com/user-attachments/assets/d68b1c28-24e8-470b-b9b9-89c7d5606928" />
