@@ -1,7 +1,7 @@
 
 -----
 
-#  Offline RAG Assistant (Timed Version)
+#  Offline RAG Assistant
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system using the LangChain framework to answer questions over a provided PDF document. It leverages local models via **Ollama** for the LLM, **HuggingFace MiniLM** for embeddings, and **FAISS** for fast, local vector storage.
 
