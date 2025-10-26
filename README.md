@@ -1,5 +1,4 @@
 
------
 
 #  Offline RAG Assistant
 
@@ -68,7 +67,7 @@ Here is the "Results and Performance Analysis" section to insert into your `READ
 
 A key objective of this project was to establish an efficient, scalable RAG system capable of handling various document sizes while operating fully offline. The following benchmarks validate the system's performance on local hardware (CPU).
 
-### 📊 Performance Benchmarks Summary
+###  Performance Benchmarks Summary
 
 The table below summarizes the time taken (in seconds) for each major step in the RAG pipeline across different document sizes.
 
