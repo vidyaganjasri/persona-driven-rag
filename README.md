@@ -64,7 +64,7 @@ Here is the "Results and Performance Analysis" section to insert into your `READ
 
 ***
 
-## 🚀 Results and Performance Analysis
+##  Results and Performance Analysis
 
 A key objective of this project was to establish an efficient, scalable RAG system capable of handling various document sizes while operating fully offline. The following benchmarks validate the system's performance on local hardware (CPU).
 
@@ -79,7 +79,7 @@ The table below summarizes the time taken (in seconds) for each major step in th
 | **Python1.pdf** | 415 | 793 | 77.49 | 81.69 | 0.02 | 95.14 |
 | **Python2.pdf** | 1213 | 3572 | 364.13 | 379.15 | 0.01 | 35.88 |
 
-### 🧠 Key Performance Takeaways
+###  Key Performance Takeaways
 
 1.  **Linear Scalability in Setup:**
     The **Total Setup Time** (dominated by the FAISS vectorization process) scales **linearly** with the number of document chunks. The system efficiently handles massive documents (e.g., **1213 pages**) with the full indexing process completing in under **6 minutes ($\approx 379s$)** on a CPU.
